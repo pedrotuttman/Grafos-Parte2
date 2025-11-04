@@ -155,15 +155,7 @@ Enunciado Parte 2: trabalho-P2.pdf
 
 Relatório Parte 1 (referência): Grafos_Parte1.pdf
 
-Relatório desta parte: Relatorio_Parte2.pdf
+Relatório desta parte: Grafos_Parte2.pdf
 
 Tabelas: Estudo_de_Casos_Tabelas_2.xlsx
 
-“Estruturas de dados bem escolhidas valem por metade do algoritmo.” — adaptado
-
-yaml
-Copiar código
-
----
-
-Quer que eu adicione no topo uma seção com os **links diretos** para o relatório em PDF e o Excel (para visualização no GitHub Pages)? Isso deixa o repositório mais navegável.
